@@ -17,6 +17,7 @@ data = res.read()
 
 s = data.decode()
 s = data.decode()
+s = data.decode()
 
 
 spis = s.split('country')
