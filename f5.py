@@ -15,7 +15,9 @@ conn.request("GET", "/v1/stats?country=", headers=headers)
 res = conn.getresponse()
 data = res.read()
 
-s = data.decode()
+s = data.decode()s = data.decode()
+s = data.decode()s = data.decode()s = data.decode()
+s = data.decode()s = data.decode()s = data.decode()s = data.decode()
 
 
 
