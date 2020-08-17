@@ -26,7 +26,7 @@ print(len(spis))
 for i in range(len(spis)):
     print(len(spis[i]))
 
-myfile0 = open('eggs2.txt', 'w')
+myfile0 = open('eggs3.txt', 'w')
 #with myfile0:
 
 myfile0.write('":"Country"'+ '\n')
