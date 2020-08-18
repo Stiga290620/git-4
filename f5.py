@@ -16,6 +16,7 @@ res = conn.getresponse()
 data = res.read()
 m1
 m2
+m3
 s = data.decode()s = data.decode()
 print(s)
 s = data.decode()s = data.decode()
