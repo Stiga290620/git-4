@@ -16,10 +16,7 @@ res = conn.getresponse()
 data = res.read()
 
 s = data.decode()s = data.decode()
-s = data.decode()s = data.decode()s = data.decode()
-s = data.decode()s = data.decode()s = data.decode()s = data.decode()
-
-
+print(s)
 
 spis = s.split('country')
 for i in range(len(spis)):
