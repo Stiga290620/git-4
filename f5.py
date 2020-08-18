@@ -16,6 +16,7 @@ res = conn.getresponse()
 data = res.read()
 
 master
+master
 
 s = data.decode()s = data.decode()
 print(s)
